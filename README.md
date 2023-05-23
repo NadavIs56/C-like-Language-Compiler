@@ -1,4 +1,4 @@
-# <p align ="center">Compiler for a C-like Language ✏️</p>
+# <p align ="center">Compiler for a C-like Language 💻</p>
 
 ## <p align ="center">This project is a compiler for a simple procedural language similar to C. It is implemented using Lex, Yacc, and the C programming language. The compiler performs various tasks such as parsing, scanning, semantic analysis, generating Three-Address Code (3AC), and supporting features like short circuit evaluation.</p>
 <br> 
