@@ -1,7 +1,10 @@
 # <p align ="center">Compiler for a C-like Language ✏️</p>
 
 ## <p align ="center">This project is a compiler for a simple procedural language similar to C. It is implemented using Lex, Yacc, and the C programming language. The compiler performs various tasks such as parsing, scanning, semantic analysis, generating Three-Address Code (3AC), and supporting features like short circuit evaluation.</p>
-<br>
+<br> 
+
+<p align ="center">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">   <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917)" width="32" height="32" /></a></p>
 
 ## Language Description 📝
 The language supports the following keywords: bool, char, int, real, string, int*, char*, real*, if, else, while, for, var, return, null, void, do.
