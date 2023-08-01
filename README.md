@@ -7,6 +7,12 @@
 <p align ="center">
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" width="32" height="32" /></a></p>
 
+<br>
+
+### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
+
+<br>
+
 ## Language Description 📝
 The language supports the following keywords: bool, char, int, real, string, int*, char*, real*, if, else, while, for, var, return, null, void, do.
 
