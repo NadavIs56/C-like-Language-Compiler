@@ -53,3 +53,10 @@ To use the compiler, run the Lex and Yacc programs with the provided language de
 ## <p align ="center">Enjoy using the compiler and exploring the features of this new language! 🎉</p>
 
 ### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
+
+---
+
+
+<div align="center">
+  Made with ❤️ by <a href="https://github.com/NadavIs56">Nadav Ishai</a>
+</div>
